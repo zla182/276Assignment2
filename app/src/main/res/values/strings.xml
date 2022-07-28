@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="photo_detail_with">Photo Detail with</string>
+    <string name="textview">TextView</string>
+    <string name="InputsDatas">enter_all_values</string>
+    <string name="calculate">Calculate</string>
+    <string name="delete">delete</string>
+    <string name="ex_2_8_for_f2_8">ex: 2.8 for F2.8</string>
+    <string name="inputsdatas">InputsDatas</string>
+</resources>
